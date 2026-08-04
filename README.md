@@ -1,16 +1,15 @@
-## Hi there 👋
+# Lin I Chen
 
-<!--
-**aliceeeileaf19/aliceeeileaf19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build offline-first tools for transit maps, data visualization, and reproducible design workflows.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Transit Label Tuner](https://github.com/aliceeeileaf19/transit-label-tuner)
+
+A dependency-free visual editor that turns manual transit-diagram adjustments into reproducible move lists instead of one-off SVG edits.
+
+[Try the live demo](https://aliceeeileaf19.github.io/transit-label-tuner/) · [Read the Traditional Chinese documentation](https://github.com/aliceeeileaf19/transit-label-tuner/blob/main/README.zh-TW.md)
+
+## Beyond code
+
+Outside code, I photograph objects, spaces, food, and quiet details at [@aliceileaf](https://www.instagram.com/aliceileaf/).
