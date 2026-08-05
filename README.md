@@ -1,15 +1,39 @@
-# Lin I Chen
+# Alice I Leaf / Lin I Chen
 
-I build offline-first tools for transit maps, data visualization, and reproducible design workflows.
+**Product & UI/UX Designer** designing clear interfaces for complex transit, cultural, and spatial systems.
+
+Taipei, Taiwan · [Email](mailto:aliceee.ileaf@gmail.com) · [Instagram](https://www.instagram.com/aliceileaf/)
+
+I shape information architecture and interaction flows, then build front-end prototypes to test them with real content, spatial behaviour, and data — including offline-first tools and reproducible visual workflows.
 
 ## Featured project
 
 ### [Transit Label Tuner](https://github.com/aliceeeileaf19/transit-label-tuner)
 
-A dependency-free visual editor that turns manual transit-diagram adjustments into reproducible move lists instead of one-off SVG edits.
+An offline-first visual editor that turns manual transit-diagram adjustments into reproducible move lists instead of one-off SVG edits.
 
-[Try the live demo](https://aliceeeileaf19.github.io/transit-label-tuner/) · [Read the Traditional Chinese documentation](https://github.com/aliceeeileaf19/transit-label-tuner/blob/main/README.zh-TW.md)
+- **Role:** Product design, interaction design, and front-end implementation
+- **Core features:** Direct label manipulation, keyboard nudging, before/after comparison, and move-list export
+- **Built with:** Dependency-free HTML, CSS, JavaScript, and SVG
+- [Try the live demo](https://aliceeeileaf19.github.io/transit-label-tuner/) · [Traditional Chinese documentation](https://github.com/aliceeeileaf19/transit-label-tuner/blob/main/README.zh-TW.md)
 
-## Beyond code
+## Professional work
 
-Outside code, I photograph objects, spaces, food, and quiet details at [@aliceileaf](https://www.instagram.com/aliceileaf/).
+- **[POPO Note](https://www.poponote.com/)** — UI/UX design for a content and community product in the Lang LIVE ecosystem.
+- **[iQrator](https://iqrator.org/zh/homepage/) product ecosystem** — Contributing product and UI/UX design to cultural and data-driven interfaces, including [Lab17](https://lab17.iqrator.org/) and [OSS](https://oss.iqrator.org/).
+- **Interactive rail-map experience — In progress** — Product, interface, and interactive 3D exploration. A case study will be added after scope, credits, and publication permissions are confirmed.
+
+## Current focus
+
+- Offline-first tools for visual and spatial workflows
+- Transit maps and data visualization
+- Cultural-content platforms and information architecture
+- Front-end prototypes and interactive 3D
+
+## Visual practice
+
+I photograph objects, spaces, food, and quiet details at [@aliceileaf](https://www.instagram.com/aliceileaf/). This practice informs how I structure interfaces, sequence information, and work with atmosphere.
+
+## Contact
+
+[aliceee.ileaf@gmail.com](mailto:aliceee.ileaf@gmail.com)
