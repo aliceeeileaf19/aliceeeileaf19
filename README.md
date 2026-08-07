@@ -19,12 +19,13 @@ An offline-first visual editor that turns manual transit-diagram adjustments int
 
 ### [Photo Gallop / 奔馬](https://github.com/aliceeeileaf19/photo-gallop)
 
-An interactive point-cloud horse built from 103 Alice-owned photographic fragments, turning a personal image archive into spatial behaviour.
+An interactive point-cloud horse built from 85 of my own photographs, turning a personal image archive into spatial behaviour. Every particle is an image; hovering pins the one under the cursor while the cloud keeps galloping past it.
 
 - **Role:** Concept, product framing, interaction design, visual system, and front-end implementation
-- **Core features:** Point-cloud gallop, proximity photo reveal, 103-image archive, keyboard and touch access, and reduced-motion support
+- **Core features:** Point-cloud gallop, proximity photo reveal, 85-image archive, keyboard and touch access, and reduced-motion support
 - **Built with:** Canvas, dependency-free JavaScript, progressive image assets, and adaptive level of detail
-- [Open the live demo](https://aliceeeileaf19.github.io/photo-gallop/) · [Read the source and asset licenses](https://github.com/aliceeeileaf19/photo-gallop#licensing)
+- **Also ships without the photographs:** a second entry point draws the same horse as typed characters and needs no assets at all, so the piece is readable and runnable under MIT alone
+- [Open the live demo](https://aliceeeileaf19.github.io/photo-gallop/) · [the version with no photographs](https://aliceeeileaf19.github.io/photo-gallop/glyph.html) · [Read the source and asset licenses](https://github.com/aliceeeileaf19/photo-gallop#licensing)
 
 ## Professional work
 
