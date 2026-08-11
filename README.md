@@ -4,6 +4,8 @@
 
 Taipei, Taiwan · [Email](mailto:aliceee.ileaf@gmail.com) · [Instagram](https://www.instagram.com/aliceileaf/)
 
+Portfolio: [aliceileaf.com](https://aliceileaf.com/)
+
 I shape information architecture and interaction flows, then build front-end prototypes to test them with real content, spatial behaviour, and data — including offline-first tools and reproducible visual workflows.
 
 ## Featured projects
@@ -47,4 +49,3 @@ I photograph objects, spaces, food, and quiet details at [@aliceileaf](https://w
 ## Contact
 
 [aliceee.ileaf@gmail.com](mailto:aliceee.ileaf@gmail.com)
-
