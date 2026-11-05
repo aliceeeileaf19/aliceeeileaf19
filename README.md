@@ -1,12 +1,23 @@
 # Alice I Leaf / Lin I Chen
 
-**Product & UI/UX Designer** designing clear interfaces for complex transit, cultural, and spatial systems.
+**Product Designer / Interactive Web Designer** turning complex data, workflows, and systems into clear, usable, interactive web products.
 
 Taipei, Taiwan · [Email](mailto:aliceee.ileaf@gmail.com) · [Instagram](https://www.instagram.com/aliceileaf/)
 
 Portfolio: [aliceileaf.com](https://aliceileaf.com/)
 
-I shape information architecture and interaction flows, then build front-end prototypes to test them with real content, spatial behaviour, and data — including offline-first tools and reproducible visual workflows.
+I design and build interactive web products for complex systems. I work across problem framing, information architecture, interaction design, visual systems, front-end implementation, testing, and publishing.
+
+I use Claude and Codex as development partners. I own the product decisions, interaction logic, visual direction, testing, and final integration.
+
+## What I do
+
+- Product and interaction design
+- Data visualization and information architecture
+- Accessible interactive web experiences
+- SVG, Canvas, JavaScript, and front-end prototyping
+- Design systems and reproducible workflows
+- AI-assisted web production with Claude and Codex
 
 ## Featured projects
 
@@ -28,6 +39,22 @@ An interactive point-cloud horse built from 85 of my own photographs, turning a 
 - **Built with:** Canvas, dependency-free JavaScript, progressive image assets, and adaptive level of detail
 - **Also ships without the photographs:** a second entry point draws the same horse as typed characters and needs no assets at all, so the piece is readable and runnable under MIT alone
 - [Open the live demo](https://aliceeeileaf19.github.io/photo-gallop/) · [the version with no photographs](https://aliceeeileaf19.github.io/photo-gallop/glyph.html) · [Read the source and asset licenses](https://github.com/aliceeeileaf19/photo-gallop#licensing)
+
+### [Puzzle Cube Type](https://github.com/aliceeeileaf19/puzzle-cube-type)
+
+A 7×7 puzzle cube that forms letters through legal layer turns, with fixed sticker colours. An exploration of typography, spatial interaction, and reproducible visual constraints.
+
+- **Built with:** Dependency-free JavaScript and CSS 3D transforms
+- **Interaction:** Drag to orbit, click to advance, and reset to the initial cube
+- [Try the live demo](https://aliceeeileaf19.github.io/puzzle-cube-type/) · [Traditional Chinese documentation](https://github.com/aliceeeileaf19/puzzle-cube-type/blob/main/README.zh-TW.md)
+
+### [TypeBack / 注音救援](https://github.com/aliceeeileaf19/typeback)
+
+An offline macOS utility that attempts to rescue mistyped Zhuyin after a short pause, with immediate undo and conservative URL, code and terminal exclusions.
+
+- **Status:** Experimental Source Alpha for developers to build; not a notarized installer or a guarantee of compatibility with every app
+- **Built with:** Swift, macOS Accessibility APIs and a local Python decoder
+- [Watch the simulated demo](https://github.com/aliceeeileaf19/typeback#readme) · [Read the compatibility limits](https://github.com/aliceeeileaf19/typeback/blob/main/docs/COMPATIBILITY.md)
 
 ## Professional work
 
